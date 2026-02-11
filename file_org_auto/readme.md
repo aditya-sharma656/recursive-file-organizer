@@ -49,8 +49,8 @@ At the top of the script:
 ```python
 DRY_RUN = True
 ```
-True - Only show what would happen
-False - Actually moves files
+True = Only show what would happen
+False = Actually moves files
 
 ## 📂 Example
 
